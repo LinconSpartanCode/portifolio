@@ -1,5 +1,5 @@
 
-# ~LinconSpartanCode~
+# ~ LinconSpartanCode ~
 
 #### Bem-vindos, Me chamo Lincon Henrique e estou estruturando meu portifólio Git. Programador FrontEnd Junior. Com conhecimentos intermediários em desenvolvimento Python 3.10.
 

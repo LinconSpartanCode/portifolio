@@ -3,6 +3,9 @@
 
 #### Bem-vindos, Me chamo Lincon Henrique e estou estruturando meu portifólio Git. Programador FrontEnd Junior. Com conhecimentos intermediários em desenvolvimento Python 3.10.
 
+# Portifólio
+<a href="https://github.com/LinconSpartanCode/FrontEnd" title="📁 Veja mais do meu trabalho, olha lá...">📁 Portifólio FrontEnd</a>
+
 # Sistemas Operacionais
 <div><img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"/></div>
